@@ -1,4 +1,4 @@
-### Olá! Eu sou a Valesca ⚡
+### HI! My name is Valesca ⚡
 
 ##
 
