@@ -1,5 +1,5 @@
 ### HI! My name is Valesca ⚡
-
+### I love information security
 ##
 
 <div align="center">
@@ -17,10 +17,6 @@
   <img align="center" alt="Valesca-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
   ##
-  
- <div>
-  I love information security, ethical hacking, pentest
-</div>
   
 <div>
   <a href="https://www.linkedin.com/in/valesca-alves-99097a21b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
