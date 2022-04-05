@@ -1,5 +1,5 @@
 ### HI! My name is Valesca ⚡
-### I love information security
+### I love information security ⚡
 ##
 
 <div align="center">
